@@ -1,0 +1,18 @@
+{
+    "auth": "gAAAAABfFABLy86EomBZC8gBibPLEOhuqZMclvmbCNcPhbpec0X_AJKL98f93iboR7oVwsObJvy_mNqewKGXlYmubgFdIpxyesHy-apdYxS-NTYgztcCwDQ=",
+    "device_info": {
+        "default_browser": "true",
+        "v": "4.0.15",
+        "ref": "''",
+        "bid": "876d7717-3d50-44c6-8aa3-f800b82d6f04",
+        "sdk": "28",
+        "manufacturer": "Xiaomi",
+        "device": "ugglite",
+        "model": "Redmi Note 5A",
+        "product": "ugglite",
+        "hardware": "",
+        "board": "MSM8937",
+        "brand": "Xiaomi",
+        "arm64": "true"
+    }
+}
